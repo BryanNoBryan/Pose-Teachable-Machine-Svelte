@@ -1,4 +1,4 @@
-<!-- PARTIAL CREDIT TO NOAH GLASER -->
+<!-- PARTIAL CREDIT TO NOAH GLASER  -->
 <!-- https://www.youtube.com/watch?v=vriVyygztLM -->
 
 <script>
